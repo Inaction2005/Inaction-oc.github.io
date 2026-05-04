@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>回（Return） on inaction</title>
+    <link>http://localhost:1313/Inaction-oc.github.io/%E5%9B%9Ereturn/</link>
+    <description>Recent content in 回（Return） on inaction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 INACTION</copyright>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Inaction-oc.github.io/%E5%9B%9Ereturn/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>回（Return）-文字版</title>
+      <link>http://localhost:1313/Inaction-oc.github.io/%E5%9B%9Ereturn/%E6%96%87%E5%AD%97%E5%89%A7%E6%83%85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Inaction-oc.github.io/%E5%9B%9Ereturn/%E6%96%87%E5%AD%97%E5%89%A7%E6%83%85/</guid>
+      <description>三世情缘，一对道侣，两个寡夫</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Inaction-oc.github.io/%E5%9B%9Ereturn/%E6%96%87%E5%AD%97%E5%89%A7%E6%83%85/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

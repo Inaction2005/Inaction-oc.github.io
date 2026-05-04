@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on inaction</title>
+    <link>http://localhost:1313/Inaction-oc.github.io/categories/</link>
+    <description>Recent content in Categories on inaction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 INACTION</copyright>
+    <atom:link href="http://localhost:1313/Inaction-oc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BG</title>
+      <link>http://localhost:1313/Inaction-oc.github.io/categories/bg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Inaction-oc.github.io/categories/bg/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>BL</title>
+      <link>http://localhost:1313/Inaction-oc.github.io/categories/bl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Inaction-oc.github.io/categories/bl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GB</title>
+      <link>http://localhost:1313/Inaction-oc.github.io/categories/gb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Inaction-oc.github.io/categories/gb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>无cp</title>
+      <link>http://localhost:1313/Inaction-oc.github.io/categories/%E6%97%A0cp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Inaction-oc.github.io/categories/%E6%97%A0cp/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
