@@ -93,6 +93,16 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/Inaction-oc.github.io/%E4%B8%80%E4%BA%9B%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84au/%E9%AB%98%E4%BD%8Dau/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Inaction-oc.github.io/_index./</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/Inaction-oc.github.io/%E5%9B%9Ereturn/%E6%96%87%E5%AD%97%E5%89%A7%E6%83%85/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
