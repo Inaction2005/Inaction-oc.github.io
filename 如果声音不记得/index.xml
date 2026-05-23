@@ -2,31 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>如果声音不记得 on inaction</title>
-    <link>https://inaction2005.github.io/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/</link>
+    <link>http://localhost:1313/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/</link>
     <description>Recent content in 如果声音不记得 on inaction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 INACTION</copyright>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://inaction2005.github.io/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Past</title>
-      <link>https://inaction2005.github.io/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/past/</link>
+      <title>Infinity</title>
+      <link>http://localhost:1313/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/infinity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inaction2005.github.io/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/past/</guid>
-      <description>青少年爱情~</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://inaction2005.github.io/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/past/featured.png" />
+      <guid>http://localhost:1313/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/infinity/</guid>
+      <description>我们还会有无数个夏天</description>
+      
     </item>
     
     <item>
-      <title>Present and Future</title>
-      <link>https://inaction2005.github.io/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/present-_and_future/</link>
+      <title>Past</title>
+      <link>http://localhost:1313/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/past/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://inaction2005.github.io/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/present-_and_future/</guid>
+      <guid>http://localhost:1313/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/past/</guid>
+      <description>青少年爱情~</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/past/featured.png" />
+    </item>
+    
+    <item>
+      <title>Present</title>
+      <link>http://localhost:1313/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/present/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/present/</guid>
       <description>好一个破镜重圆！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://inaction2005.github.io/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/present-_and_future/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Inaction-oc.github.io/%E5%A6%82%E6%9E%9C%E5%A3%B0%E9%9F%B3%E4%B8%8D%E8%AE%B0%E5%BE%97/present/featured.jpeg" />
     </item>
     
   </channel>
