@@ -112,6 +112,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/Inaction-oc.github.io/%E4%B8%80%E4%BA%9B%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84au/%E8%BF%9E%E7%90%86/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/Inaction-oc.github.io/%E6%B5%A6%E4%B8%9C%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B/%E6%BC%AB%E7%94%BB%E9%9B%861/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -138,6 +143,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/Inaction-oc.github.io/%E6%B5%A6%E4%B8%9C%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B/%E5%9B%BE%E9%9B%864/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Inaction-oc.github.io/%E6%B5%A6%E4%B8%9C%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B/%E5%9B%BE%E9%9B%865/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
