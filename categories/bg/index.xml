@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BG on inaction</title>
+    <title>Bg on inaction</title>
     <link>http://localhost:1313/Inaction-oc.github.io/categories/bg/</link>
-    <description>Recent content in BG on inaction</description>
+    <description>Recent content in Bg on inaction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 INACTION</copyright>
@@ -26,7 +26,7 @@
       
       <guid>http://localhost:1313/Inaction-oc.github.io/%E4%B8%80%E4%BA%9B%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84au/%E8%BF%9E%E7%90%86/</guid>
       <description>死生契阔，与子成说。</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Inaction-oc.github.io/%E4%B8%80%E4%BA%9B%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84au/%E8%BF%9E%E7%90%86/featured.jpeg" />
     </item>
     
     <item>
